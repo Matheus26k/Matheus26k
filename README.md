@@ -22,7 +22,7 @@
 <h3 align="left">👨‍💻 Sobre Mim</h3>
 
 <p align="left">
-Sou um entusiasta de tecnologia apaixonado por qualidade de software, criatividade e boas histórias. <br><br>
+Sou um entusiasta de tecnologia apaixonado por qualidade de software, criatividade e boas histórias.<br><br>
 - 🔭 Atuo como Analista de QA, focado em automação, performance e API testing.<br>
 - 📚 Atualmente estudando práticas avançadas de DevOps e Testes diversos.<br>
 - 🎌 Animes e cultura Japonesa são minhas fontes de inspiração e foco.
@@ -57,8 +57,8 @@ Sou um entusiasta de tecnologia apaixonado por qualidade de software, criativida
 <h3 align="left">📈 Estatísticas GitHub</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Matheus26k&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus26k&layout=compact&theme=tokyonight&hide_border=true&card_width=300" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheus26k&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" height="140" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus26k&layout=compact&theme=tokyonight&hide_border=true&card_width=300" height="140" alt="Top Languages" />
 </div>
 
 ###
@@ -66,7 +66,7 @@ Sou um entusiasta de tecnologia apaixonado por qualidade de software, criativida
 <h3 align="left">🐍 Snake Animation</h3>
 
 <div align="center">
-  <img src="https://github.com/Matheus26k/Matheus26k/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Matheus26k/Matheus26k/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ###
@@ -77,7 +77,7 @@ Sou um entusiasta de tecnologia apaixonado por qualidade de software, criativida
 |:---|:---|
 | 2021 | Início na área de Qualidade de Software |
 | 2023 | Primeiros testes automatizados com Cypress |
-| 2025 | Estudos na area de QA |
+| 2025 | Estudos avançados em QA, Performance e DevOps |
 
 ###
 
