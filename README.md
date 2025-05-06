@@ -24,8 +24,8 @@
 <p align="left">
 Sou um entusiasta de tecnologia apaixonado por qualidade de software, criatividade e boas histórias. <br><br>
 - 🔭 Atuo como Analista de QA, focado em automação, performance e API testing.<br>
-- 📚 Atualmente estudando práticas avançadas de DevOps e Testes de Segurança.<br>
-- 🎌 Animes e RPGs são minhas fontes de inspiração e foco.
+- 📚 Atualmente estudando práticas avançadas de DevOps e Testes diversos.<br>
+- 🎌 Animes e cultura Japonesa são minhas fontes de inspiração e foco.
 </p>
 
 ###
