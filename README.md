@@ -66,7 +66,7 @@ Sou um entusiasta de tecnologia apaixonado por qualidade de software, criativida
 <h3 align="left">🐍 Snake Animation</h3>
 
 <div align="center">
-  <img src="https://github.com/Matheus26k/Matheus26k/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/Matheus26k/Matheus26k/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ###
